@@ -5089,16 +5089,16 @@
         },
         {
             "name": "prestashop/dashactivity",
-            "version": "v2.1.0",
+            "version": "v2.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PrestaShop/dashactivity.git",
-                "reference": "21e90c2d98dc797e2ce8927e6f6e510ac60a6159"
+                "reference": "e604732a897a26d751afac09936bdcb7eb7b9044"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PrestaShop/dashactivity/zipball/21e90c2d98dc797e2ce8927e6f6e510ac60a6159",
-                "reference": "21e90c2d98dc797e2ce8927e6f6e510ac60a6159",
+                "url": "https://api.github.com/repos/PrestaShop/dashactivity/zipball/e604732a897a26d751afac09936bdcb7eb7b9044",
+                "reference": "e604732a897a26d751afac09936bdcb7eb7b9044",
                 "shasum": ""
             },
             "require": {
@@ -5121,9 +5121,9 @@
             "description": "PrestaShop module dashactivity",
             "homepage": "https://github.com/PrestaShop/dashactivity",
             "support": {
-                "source": "https://github.com/PrestaShop/dashactivity/tree/v2.1.0"
+                "source": "https://github.com/PrestaShop/dashactivity/tree/v2.1.1"
             },
-            "time": "2022-12-01T10:40:27+00:00"
+            "time": "2024-04-08T11:12:02+00:00"
         },
         {
             "name": "prestashop/dashgoals",
@@ -5532,16 +5532,16 @@
         },
         {
             "name": "prestashop/productcomments",
-            "version": "v6.0.2",
+            "version": "v6.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PrestaShop/productcomments.git",
-                "reference": "03955f7315f97f9d99fd1bd1675b24f0a97e1938"
+                "reference": "d47e7446fd492f604428138328579ea9b45f969e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PrestaShop/productcomments/zipball/03955f7315f97f9d99fd1bd1675b24f0a97e1938",
-                "reference": "03955f7315f97f9d99fd1bd1675b24f0a97e1938",
+                "url": "https://api.github.com/repos/PrestaShop/productcomments/zipball/d47e7446fd492f604428138328579ea9b45f969e",
+                "reference": "d47e7446fd492f604428138328579ea9b45f969e",
                 "shasum": ""
             },
             "require": {
@@ -5573,9 +5573,9 @@
             "description": "PrestaShop module productcomments",
             "homepage": "https://github.com/PrestaShop/productcomments",
             "support": {
-                "source": "https://github.com/PrestaShop/productcomments/tree/v6.0.2"
+                "source": "https://github.com/PrestaShop/productcomments/tree/v6.0.3"
             },
-            "time": "2023-08-30T08:14:56+00:00"
+            "time": "2024-04-04T10:57:46+00:00"
         },
         {
             "name": "prestashop/ps_apiresources",
@@ -6357,16 +6357,16 @@
         },
         {
             "name": "prestashop/ps_facetedsearch",
-            "version": "v3.15.1",
+            "version": "v3.16.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PrestaShop/ps_facetedsearch.git",
-                "reference": "5e06b7eedc5d0e28555e2fbf5cf9b070747e4e60"
+                "reference": "a516b0b46796e95246537b94df3e778fd19292f9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PrestaShop/ps_facetedsearch/zipball/5e06b7eedc5d0e28555e2fbf5cf9b070747e4e60",
-                "reference": "5e06b7eedc5d0e28555e2fbf5cf9b070747e4e60",
+                "url": "https://api.github.com/repos/PrestaShop/ps_facetedsearch/zipball/a516b0b46796e95246537b94df3e778fd19292f9",
+                "reference": "a516b0b46796e95246537b94df3e778fd19292f9",
                 "shasum": ""
             },
             "require": {
@@ -6402,9 +6402,9 @@
             "description": "PrestaShop module ps_facetedsearch",
             "homepage": "https://github.com/PrestaShop/ps_facetedsearch",
             "support": {
-                "source": "https://github.com/PrestaShop/ps_facetedsearch/tree/v3.15.1"
+                "source": "https://github.com/PrestaShop/ps_facetedsearch/tree/v3.16.1"
             },
-            "time": "2024-03-01T09:51:40+00:00"
+            "time": "2024-06-24T08:31:50+00:00"
         },
         {
             "name": "prestashop/ps_faviconnotificationbo",
